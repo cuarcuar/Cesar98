@@ -46,5 +46,9 @@
 </p>
 </br>
 
-<h2 align="center"> Just for fun 🐶 <h2>
-<p align="center"><img src="https://profile-counter.glitch.me/{Cesar98}/count.svg" alt="Visitor's count" /></p>
+<h2 align="center"> Just for fun 🐶 </h2>
+<p align="center"> Visitor's count </p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Cesar98}/count.svg" alt="Visitor's count" />
+</p>
+
