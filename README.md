@@ -9,15 +9,29 @@
 <h2 align="center"> Using operative systems like 💻 </h2>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Deepin_logo.svg/1050px-Deepin_logo.svg.png" width="50" alt="Deepin OS" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" width="50" alt="Windows" />
+</br>
+<p align="center">
+  Deepin OS
 </p>
+</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" width="50" alt="Windows" />
+  </br>
+<p align="center">
+  Windows
+</p>
+</p>
+
 </br>
 
 <h2 align="center"> Currently mastering ☕ </h2>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="15" /> JavaScript 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="15" /> JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="15" />
   </br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="15" /> Python 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="15" /> Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="15" />
+  </br>
+  <img src="https://static.cdnlogo.com/logos/f/30/flutter.svg" width="15" /> Flutter <img src="https://static.cdnlogo.com/logos/f/30/flutter.svg" width="15" />
 </p>
 </br>
 
