@@ -1,5 +1,5 @@
 <h3 align="center"> Hi there I'm Cesar, hope you enjoy your visit 👋 </h3>
-<p align="center"> I'm 24 a computer systems engineer, currently working in Toluca Estado de México </p>
+<p align="center"> I'm 24 a computer systems engineer, currently working from Canada but mostly from Toluca, Mexico </p>
 </br>
 
 <h2 align="center"> Right now I'm using 👨‍💼 </h2>
@@ -50,7 +50,7 @@
 
 <h2 align="center"> Where you can find me 🧔 <h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/cesar-alvarez-b4922a217/">
+  <a href="https://www.linkedin.com/in/cuarcuar/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin profile" height="30" width="30">
   </a>
   <a href="https://www.instagram.com/cuar__cuar/">
