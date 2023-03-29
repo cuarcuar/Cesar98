@@ -20,7 +20,4 @@
   <a href="https://www.linkedin.com/in/cuarcuar/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin profile" height="30" width="30">
   </a>
-  <a href="https://www.instagram.com/cuar__cuar/">
-    <img src="https://ladatacuenta.com/wp-content/uploads/2021/01/instagram-logo-png-transparent-0.png" alt="Instagram profile" height="30" width="30">
-  </a>
 </p>
